@@ -35,6 +35,5 @@
 *.sdf
 *.vcxproj.filters
 
-GeneratedFiles
 debug
 x64

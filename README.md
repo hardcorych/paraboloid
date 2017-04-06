@@ -1,4 +1,4 @@
 # paraboloid
 Dynamic paraboloid with coefficient adjustment
 
-test
+OpenSceneGraph and QT required
